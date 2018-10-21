@@ -49,7 +49,7 @@ double DTW::dtwDistanceL1(int n, int m) {
 */
 	return pmatrix[len1][len2];
 }
-double DTW::dtwDistanceL1(int n, int m) {
+double DTW::dtwDistanceL2(int n, int m) {
 	int len1 = trajs[n].traj.size();
 	int len2 = trajs[m].traj.size();
 	//int ** pmatrix = new int* [len1 + 1];
