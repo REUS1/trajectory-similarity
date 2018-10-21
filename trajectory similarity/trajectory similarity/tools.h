@@ -26,10 +26,10 @@ double mabs(double a);
 
 //Distance Functions
 
-double L1norm(Point p1, Point p2);  //º∆À„L1-norms
+double L1norm(Point p1, Point p2);  //L1-norms
 
-double L2norm(Point p1, Point p2);  //º∆À„L2-norms
+double L2norm(Point p1, Point p2);  //L2-norms
 
-double Linfinite(Point p1, Point p2);  //º∆À„Linfinite-norms
+double Linfinite(Point p1, Point p2);  //Linfinite-norms
 
-#endif 
+#endif
