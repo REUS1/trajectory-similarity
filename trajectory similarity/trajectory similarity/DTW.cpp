@@ -8,8 +8,8 @@
 using namespace std;
 
 double DTW::dtwDistanceL1(int n, int m) {
-	int len1 = trajs[n].traj.size();//¹ì¼£1µÄ³¤¶È
-	int len2 = trajs[m].traj.size();//¹ì¼£2µÄ³¤¶È
+	int len1 = trajs[n].traj.size();//è½¨è¿¹1çš„ç‚¹è¿¹ä¸ªæ•°
+	int len2 = trajs[m].traj.size();//è½¨è¿¹2çš„ç‚¹è¿¹ä¸ªæ•°
 	//int ** pmatrix = new int* [len1 + 1];
     //for (int i = 0; i < len1 + 1; i++)
 	//	pmatrix[i] = new int[len2 + 1];
