@@ -8,9 +8,9 @@ class Point {
 public:
 	Point();
 	void display(); 
-	long long time; //时间 
-	double lon;     //经度
-	double lat;     //纬度
+	long long time; //鏃堕棿
+	double lon;     //缁忓害
+	double lat;     //绾害
 };
 
 #endif
