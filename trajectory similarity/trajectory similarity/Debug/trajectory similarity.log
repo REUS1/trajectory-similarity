@@ -1,2 +1,17 @@
 ﻿  DTW.cpp
+c:\users\flamewaker\desktop\论文学习\trajectory similarity\trajectory similarity\dtw.cpp(1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\flamewaker\desktop\论文学习\trajectory similarity\trajectory similarity\dtw.cpp(133): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\flamewaker\desktop\论文学习\trajectory similarity\trajectory similarity\dtw.cpp(162): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\flamewaker\desktop\论文学习\trajectory similarity\trajectory similarity\dtw.cpp(183): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\flamewaker\desktop\论文学习\trajectory similarity\trajectory similarity\dtw.cpp(191): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\flamewaker\desktop\论文学习\trajectory similarity\trajectory similarity\dtw.cpp(222): warning C4018: “<”: 有符号/无符号不匹配
+  point.cpp
+  preprocess.cpp
+c:\users\flamewaker\desktop\论文学习\trajectory similarity\trajectory similarity\preprocess.cpp(62): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+  tools.cpp
+  trajectory similarity.cpp
+c:\users\flamewaker\desktop\论文学习\trajectory similarity\trajectory similarity\trajectory similarity.cpp(18): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  trajectory.cpp
+c:\users\flamewaker\desktop\论文学习\trajectory similarity\trajectory similarity\trajectory.cpp(7): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
   trajectory similarity.vcxproj -> C:\Users\Flamewaker\Desktop\论文学习\trajectory similarity\Debug\trajectory similarity.exe
